@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason K. Axford | Matt Hill</title>
+    <link>/authors/jason-k.-axford/</link>
+      <atom:link href="/authors/jason-k.-axford/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jason K. Axford</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jason K. Axford</title>
+      <link>/authors/jason-k.-axford/</link>
+    </image>
+    
+    <item>
+      <title>Predicting the spread of Aedes albopictus in Australia under current and future climates: Multiple approaches and datasets to incorporate potential evolutionary divergence</title>
+      <link>/publication/journal_article/2014-01-01_hill_predicting_2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal_article/2014-01-01_hill_predicting_2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

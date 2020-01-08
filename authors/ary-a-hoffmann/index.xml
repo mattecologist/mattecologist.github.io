@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ary A Hoffmann | Matt Hill</title>
+    <link>/authors/ary-a-hoffmann/</link>
+      <atom:link href="/authors/ary-a-hoffmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ary A Hoffmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ary A Hoffmann</title>
+      <link>/authors/ary-a-hoffmann/</link>
+    </image>
+    
+    <item>
+      <title>Assessing the current and future biological control potential of Trichogramma ostriniae on its hosts Ostrinia furnacalis and Ostrinia nubilalis</title>
+      <link>/publication/journal_article/2018-01-01_wu_assessing_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal_article/2018-01-01_wu_assessing_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate, human influence and the distribution limits of the invasive European earwig, Forficula auricularia, in Australia: Distribution limits of European earwig in Australia</title>
+      <link>/publication/journal_article/2018-01-01_hill_climate_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal_article/2018-01-01_hill_climate_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The distribution, abundance and life cycle of the pest mites Balaustium medicagoense (Prostigmata: Erythraeidae) and Bryobia spp. (Prostigmata: Tetranychidae) in Australia: Biology of Balaustium and Bryobia mites</title>
+      <link>/publication/journal_article/2011-01-01_arthur_distribution_2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/journal_article/2011-01-01_arthur_distribution_2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

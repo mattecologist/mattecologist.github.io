@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ary A. Hoffmann | Matt Hill</title>
+    <link>/authors/ary-a.-hoffmann/</link>
+      <atom:link href="/authors/ary-a.-hoffmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ary A. Hoffmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ary A. Hoffmann</title>
+      <link>/authors/ary-a.-hoffmann/</link>
+    </image>
+    
+    <item>
+      <title>Genetic analysis along an invasion pathway reveals endemic cryptic taxa, but a single species with little population structure in the introduced range</title>
+      <link>/publication/journal_article/2015-01-01_hill_genetic_2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal_article/2015-01-01_hill_genetic_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the spread of Aedes albopictus in Australia under current and future climates: Multiple approaches and datasets to incorporate potential evolutionary divergence</title>
+      <link>/publication/journal_article/2014-01-01_hill_predicting_2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal_article/2014-01-01_hill_predicting_2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A predicted niche shift corresponds with increased thermal resistance in an invasive mite, Halotydeus destructor</title>
+      <link>/publication/journal_article/2013-01-01_hill_predicted_2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal_article/2013-01-01_hill_predicted_2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution of cryptic blue oat mite species in Australia: current and future climate conditions</title>
+      <link>/publication/journal_article/2012-01-01_hill_distribution_2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal_article/2012-01-01_hill_distribution_2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding niche shifts: using current and historical data to model the invasive redlegged earth mite, Halotydeus destructor: Investigating niche shifts in an invasive mite</title>
+      <link>/publication/journal_article/2012-01-01_hill_understanding_2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal_article/2012-01-01_hill_understanding_2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

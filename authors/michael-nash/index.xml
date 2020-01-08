@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Nash | Matt Hill</title>
+    <link>/authors/michael-nash/</link>
+      <atom:link href="/authors/michael-nash/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Nash</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Michael Nash</title>
+      <link>/authors/michael-nash/</link>
+    </image>
+    
+    <item>
+      <title>Identifying critical research gaps that limit control options for invertebrate pests in Australian grain production systems: Research gaps for grain pest management</title>
+      <link>/publication/journal_article/2019-01-01_macfadyen_identifying_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal_article/2019-01-01_macfadyen_identifying_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

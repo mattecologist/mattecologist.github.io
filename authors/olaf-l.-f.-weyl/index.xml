@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olaf L. F. Weyl | Matt Hill</title>
+    <link>/authors/olaf-l.-f.-weyl/</link>
+      <atom:link href="/authors/olaf-l.-f.-weyl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Olaf L. F. Weyl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Olaf L. F. Weyl</title>
+      <link>/authors/olaf-l.-f.-weyl/</link>
+    </image>
+    
+    <item>
+      <title>Fictional responses from Vonesh et al.</title>
+      <link>/publication/journal_article/2017-01-01_dick_fictional_2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal_article/2017-01-01_dick_fictional_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional responses can unify invasion ecology</title>
+      <link>/publication/journal_article/2017-01-01_dick_functional_2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal_article/2017-01-01_dick_functional_2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
