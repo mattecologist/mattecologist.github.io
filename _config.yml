@@ -29,7 +29,8 @@ url: https://mattecologist.github.io # the base hostname & protocol for your sit
 github_username:  mattecologist
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-feed
 
