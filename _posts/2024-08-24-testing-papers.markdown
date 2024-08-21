@@ -5,8 +5,8 @@ date:   2024-08-22 11:05:51 +1000
 categories: jekyll update
 ---
 
-{{ page.title }}
-================
+#{{ page.title }}
+#================
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -24,4 +24,4 @@ laborum' {% cite rainey %}.
 References
 ----------
 
-{% bibliography %}
+#{% bibliography %}

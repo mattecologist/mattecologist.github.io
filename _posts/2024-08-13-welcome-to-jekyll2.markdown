@@ -5,3 +5,11 @@ date:   2024-08-13 11:05:51 +1000
 categories: jekyll update
 ---
 Hello
+
+{% cite rainey %}
+
+
+References
+----------
+
+{% bibliography %}
