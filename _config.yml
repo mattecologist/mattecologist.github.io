@@ -5,20 +5,20 @@
 url: ''
 baseurl: '' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: ncsu # blue turquoise green berry orange ceramic ncsu
+theme_skin: green # blue turquoise green berry orange ceramic ncsu
 
 # Select the sections you would like displayed by marking them as true. If you would like to hide a section set the value to false
 display:
   career-profile: true
   education: true
-  professional-experience: true
+  professional-experience: false
   publications: true
-  presentations: true
-  skills: true
+  presentations: false
+  skills: false
 
 collections:
   presentations:
-    output: true
+    output: false
     permalink: /presentations/:path
 
 # Use NCSU Citation Index
