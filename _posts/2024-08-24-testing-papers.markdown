@@ -1,6 +1,8 @@
 ---
-layout: default
-title: A Blogging Scholar
+layout: post
+title:  "Papers?!"
+date:   2024-08-22 11:05:51 +1000
+categories: jekyll update
 ---
 
 {{ page.title }}
