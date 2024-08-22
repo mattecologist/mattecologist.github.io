@@ -3,7 +3,7 @@
   year: 2024
   link: ./assets/pdf/s10530-024-03409-z.pdf
 
-- title: "Field evaluation of female- and male-targeted traps for Ceratitis capitata (Diptera: Tephritidae)."
+- title: "Field evaluation of female- and male-targeted traps for Ceratitis capitata (Diptera: Tephritidae)"
   authors: Howse E, van Klinken RD, Beeton N, Spafford H, Hill MP
   year: 2024
   link: ./assets/pdf/toae139.pdf
@@ -24,12 +24,22 @@
   year: 2023
   link: ./assets/pdf/s10530-022-02977-2.pdf
 
-- title: [preprint] A novel method accounting for predictor uncertainty and model transferability of invasive species distribution models
+- title: "[preprint] A novel method accounting for predictor uncertainty and model transferability of invasive species distribution models"
   authors: Hill MP, Caley P, Camac J, Elith J, Barry S
   year: 2022
   link: ./assets/pdf/2022.03.14.483865v1.full.pdf
 
-  - title: [preprint] Probability of insect capture in a trap network: low prevalence and detection trapping with TrapGrid
+- title: "[preprint] Probability of insect capture in a trap network: low prevalence and detection trapping with TrapGrid"
   authors: Manoukis NC, Hill MP
-  year: 2022
+  year: 2021
   link: ./assets/pdf/2110.11432v1.pdf
+
+- title: Lifecycle of the invasive omnivore, Forficula auricularia, in Australian grain growing environments
+  authors: Binns M, Hoffmann AA, van Helden M, Heddle T, Hill MP, Macfadyen S, Nash MA, Umina PA
+  year: 2021
+  link: ./assets/pdf/ps.6206.pdf
+
+- title: Identifying critical research gaps that limit control options for invertebrate pests in Australian grain production systems
+  authors: Macfadyen S, Moradi‐Vajargah M, Umina PA, Hoffman AA, Nash MA, Holloway J, Severtson D, Hill MP, van Helden M, Barton M
+  year: 2019
+  link: ./assets/pdf/aen.12382.pdf
