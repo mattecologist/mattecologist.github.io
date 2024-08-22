@@ -24,7 +24,12 @@
   year: 2023
   link: ./assets/pdf/s10530-022-02977-2.pdf
 
-- title: A novel method accounting for predictor uncertainty and model transferability of invasive species distribution models
-  authors: Hill Mp, Caley P, Camac J, Elith J, Barry S
+- title: [preprint] A novel method accounting for predictor uncertainty and model transferability of invasive species distribution models
+  authors: Hill MP, Caley P, Camac J, Elith J, Barry S
   year: 2022
   link: ./assets/pdf/2022.03.14.483865v1.full.pdf
+
+  - title: [preprint] Probability of insect capture in a trap network: low prevalence and detection trapping with TrapGrid
+  authors: Manoukis NC, Hill MP
+  year: 2022
+  link: ./assets/pdf/2110.11432v1.pdf
